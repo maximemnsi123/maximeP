@@ -5,7 +5,7 @@ body {
     color: #333; /*couleur du texte */
     text-align: left;
     font-family: Georgia, serif; 
-    border-bottom: 15px solid black;
+    border-bottom: 40px #FF6F61;
 h1{
   font-family: 'Segoe UI', sans-serif;
   color: #2c3e50;
