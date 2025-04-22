@@ -1,7 +1,11 @@
 body {
-    
-    font-size: 22px; /* police */
-    background-color: #f4f4; /* fond */
+      background-image: url('https://as2.ftcdn.net/jpg/02/46/31/35/1000_F_246313528_w4tOtd6jMI5VKlJh5ZJjizKX2nDexhpj.jpg');
+  background-size: cover; /* L'image couvre toute la surface de l'élément */
+  background-position: center; /* Centrer l'image dans l'élément */
+  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+  height: 100vh; /* Pour s'assurer que l'image couvre tout l'écran */
+  margin: 0; /* Enlève les marges par défaut du body */
+font-size: 22px; /* police */
     color: #333; /*couleur du texte */
     text-align: left;
     font-family: Georgia, serif; 
