@@ -1,4 +1,6 @@
 body {
+	  margin: 0; /* Élimine les marges par défaut */
+  padding: 0;
       background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZdtgAG6cCPCMncRmzrwJ9gAvzQsUSi8X-g&s');
   background-size: cover; /* L'image couvre toute la surface de l'élément */
   background-position: center; /* Centrer l'image dans l'élément */
