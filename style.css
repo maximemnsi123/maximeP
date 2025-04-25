@@ -5,9 +5,7 @@ body {
   background-size: cover; /* L'image couvre toute la surface de l'élément */
   background-position: center; /* Centrer l'image dans l'élément */
   background-size: cover;
-  background-repeat: no-repeat; /* Empêche la répétition de l'image */
-  height: 150vh; /* Pour s'assurer que l'image couvre tout l'écran */
-  margin: 0; /* Enlève les marges par défaut du body */
+  height: 100vh; /* Pour s'assurer que l'image couvre tout l'écran */
 font-size: 22px; /* police */
     color: #333; /*couleur du texte */
     text-align: left;
