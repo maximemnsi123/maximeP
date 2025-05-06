@@ -10,6 +10,7 @@ font-size: 22px; /* police */
     color: #333; /*couleur du texte */
     text-align: left;
     font-family: Georgia, serif; 
+	margin: 40px;
 h1{
   font-family: 'Segoe UI', sans-serif;
   color: #2c3e50;
